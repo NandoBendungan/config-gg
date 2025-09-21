@@ -1,4 +1,4 @@
 credential=Eternity:100subs
 credential=alice:pass123
 credential=bob:backup456
-expired=2025-08-31
+expired=2025-09-31
