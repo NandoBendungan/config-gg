@@ -1,1 +1,4 @@
 
+credential=Alpukatt:Pinn
+credential=ADMIN:Admin123
+expired=2030-10-11
