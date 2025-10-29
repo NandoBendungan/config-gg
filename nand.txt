@@ -1,3 +1,0 @@
-credential=bob:backup
-credential=RUSHEL:212091
-expired=2025-11-10
